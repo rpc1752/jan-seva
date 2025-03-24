@@ -1,15 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import {
-  FaIdCard,
-  FaCertificate,
-  FaMoneyBillWave,
-  FaWater,
-  FaHeartbeat,
-  FaUniversity,
-  FaGraduationCap,
-  FaBalanceScale,
-} from "react-icons/fa";
+import { FaIdCard, FaWater, FaHeartbeat, FaUniversity } from "react-icons/fa";
 import ScrollToTop from "@/components/ScrollToTop";
 import MobileNav from "@/components/MobileNav";
 
