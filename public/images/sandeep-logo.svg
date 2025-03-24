@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <!-- Background circles -->
+  <circle cx="60" cy="60" r="54" fill="#8e44ad" />
+  <circle cx="60" cy="60" r="48" fill="#ffffff" />
+  <circle cx="60" cy="60" r="42" fill="#f39c12" />
+  
+  <!-- Central icon representing a private local service center -->
+  <g stroke="#ffffff" stroke-width="2" fill="none">
+    <!-- Storefront icon -->
+    <path d="M30,45 L90,45 L90,75 L30,75 Z" fill="#ffffff" stroke="#ffffff" />
+    <polyline points="30,45 25,35 95,35 90,45" fill="#ffffff" stroke="#ffffff" />
+    <rect x="35" y="50" width="15" height="25" fill="#8e44ad" stroke="#8e44ad" />
+    <rect x="55" y="50" width="15" height="25" fill="#8e44ad" stroke="#8e44ad" />
+    <rect x="75" y="50" width="10" height="18" fill="#8e44ad" stroke="#8e44ad" />
+    <line x1="60" y1="35" x2="60" y2="45" stroke="#8e44ad" stroke-width="3" />
+  </g>
+  
+  <!-- Decorative elements -->
+  <circle cx="60" cy="30" r="3" fill="#ffffff" />
+  <circle cx="40" cy="32" r="2" fill="#ffffff" />
+  <circle cx="80" cy="32" r="2" fill="#ffffff" />
+  
+  <!-- Text for private business -->
+  <text x="60" y="92" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle" font-weight="bold">संदीप जन सेवा केंद्र</text>
+  <text x="60" y="105" font-family="Arial, sans-serif" font-size="8" fill="#ffffff" text-anchor="middle">प्राइवेट सेवा प्रदाता</text>
+</svg> 
